@@ -301,7 +301,7 @@ html,body{
     justify-content: center;
     align-items: center;
 	position: relative;
-	background: url(../../assets/images/home/nature.jpg)no-repeat;
+	background: url(../../assets/images/home/nature_one.jpg)no-repeat;
     /* background-color: #222222; */
     filter: saturate(1.5);
 	background-size: cover;
